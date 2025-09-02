@@ -1,6 +1,6 @@
 # Online Retail Analysis Project
 
-![Power BI Dashboard](Screenshots/dashboard_screenshot.png)
+![Power BI Dashboard](E:\data analysis by krish naik\projects\my company retail sales analysis\power bi dashboard)
 
 ## Project Overview
 This project demonstrates an end-to-end analysis of an online retail dataset for 2011. The dataset was carefully **cleaned and validated** to ensure accurate and reliable insights for executive decision-making.
